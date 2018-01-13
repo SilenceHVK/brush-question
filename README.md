@@ -1,7 +1,7 @@
 # Promgramming Problems
 This is code examples used to record programming problems.
 
-Programming problems mainly from LeetCode, Codewars and some programming books, the use of C #, Java, JavaScript, Python and Golang to achieve programming effect.
+Programming problems mainly from LeetCode, Codewars and some programming books, the use of C #, Java, JavaScript, Python3 and Golang to achieve programming effect.
 
 If you have a better idea of how to solve problems, please share with us in the issues and share the code with you if you can. 
 I hereby express my heart-felt gratitude.
@@ -10,9 +10,9 @@ I hereby express my heart-felt gratitude.
 
 # Problems List
 
-| No. | Title | Title Form | Difficulty | Solution | 
+| No. | Title | Title Form | Difficulty |
 | ---|---|---|---|--- |
-| 1 | [Two Sum]() | [LeetCode](https://leetcode.com/problems/two-sum/) | easy | [C#]() [Java]() [JavaScript]() [Python]() [Golang]() |
+| 1 | [Two Sum](#user-content-two-sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | easy |
 
 # Problems Description
 ## Two Sum
@@ -27,3 +27,4 @@ Example:
     return [0, 1].
 ```
 
+Solution:
