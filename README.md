@@ -12,5 +12,6 @@ I hereby express my heart-felt gratitude.
 
 | No. | Title | Title Form | Difficulty | Solution | 
 | ---|---|---|---|--- |
+| 1 | [Two Sum]() | [LeetCode](https://leetcode.com/problems/two-sum/) | easy | [C#]() [Java]() [JavaScript]() [Python]() [Golang]() |
 
 
