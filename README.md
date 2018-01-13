@@ -9,6 +9,7 @@ If you have a better idea of how to solve problems, please share with us in the 
 
 # Problems List
 
-| No. | Title | Difficulty | Solution | 
-| ---|---|---|---|
+| No. | Title | Title Form | Difficulty | Solution | 
+| ---|---|---|---|--- |
+
 
