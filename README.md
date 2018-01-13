@@ -9,10 +9,10 @@ I hereby express my heart-felt gratitude.
 ![background image](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg3.png)
 
 # Problems List
-
 | No. | Title | Title Form | Difficulty |
-| ---|---|---|---|--- |
-| 1 | [Two Sum](#user-content-two-sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | easy |
+| ---|---|---|---|
+| 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | easy |
+
 
 # Problems Description
 ## Two Sum
