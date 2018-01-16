@@ -12,7 +12,7 @@ I hereby express my heart-felt gratitude.
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
 | 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy |  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
-| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript]() |
+| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
 
 
 # Problems Description
@@ -44,4 +44,4 @@ Example:
 ```
 
 Solution:
-[JavaScript]()
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
