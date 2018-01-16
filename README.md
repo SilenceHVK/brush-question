@@ -1,7 +1,7 @@
 # Promgramming Problems
 This is code examples used to record programming problems.
 
-Programming problems mainly from LeetCode, Codewars and some programming books, the use of C #, Java, JavaScript, Python3 and Golang to achieve programming effect.
+Programming problems mainly from LeetCode, Codewars and some programming books, the use of  JavaScript to achieve programming effect.
 
 If you have a better idea of how to solve problems, please share with us in the issues and share the code with you if you can. 
 I hereby express my heart-felt gratitude.
@@ -11,8 +11,8 @@ I hereby express my heart-felt gratitude.
 # Problems List
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
-| 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [C#]() , [Java]() ,  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) , [Python]() , [Golang]() |
-| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [C#]() , [Java]() ,  [JavaScript]() , [Python]() , [Golang]() |
+| 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy |  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
+| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript]() |
 
 
 # Problems Description
@@ -29,7 +29,7 @@ Example:
 ```
 
 Solution:
- [C#]() , [Java]() ,  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) , [Python]() , [Golang]()
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) 
 
 ## Add Two Numbers
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
@@ -44,4 +44,4 @@ Example:
 ```
 
 Solution:
- [C#]() , [Java]() ,  [JavaScript]() , [Python]() , [Golang]()
+[JavaScript]()

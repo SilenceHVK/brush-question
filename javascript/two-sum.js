@@ -1,5 +1,11 @@
 (function main() {
     'use strict';
+    /**
+     * twoSum function
+     * @param {Array} nums 
+     * @param {Number} target 
+     * @return {Array}
+     */
     function twoSum(nums, target) {
         // Determine whether the parameter nums is an array
         if (!(nums instanceof Array)) return [];
