@@ -10,7 +10,7 @@
         // Determine whether the parameter nums is an array
         if (!(nums instanceof Array)) return [];
         // Determine whether the target nums is an number
-        if (isNaN(target)) return [];
+        if (isNaN(target) && target) return [];
         for (let i = 0; i < nums.length; i++) {
             let complement = target - nums[i];
             let index = nums.indexOf(complement);
