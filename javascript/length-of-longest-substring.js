@@ -5,13 +5,23 @@
      * @return {number}
      */
     var lengthOfLongestSubstring = function (s) {
-        let charArr = [];
-        for (let i = 0; i < s.length; i++) {
-            let char = s.charAt(i);
+        let i = 0, j = 0, result = 0;
+        let set = new Set();
+        while (i < s.length && j < s.length) {
+            if (!set.has(s.charAt(j))) {
+                set.add(s.charAt(j++));
+                result = Math.max(result, j - i);
+            } else {
+                set.delete(s.charAt(i++));
+            }
         }
-        return charArr.length;
+        return result;
     };
-    let result = lengthOfLongestSubstring("au");
-    // let result = lengthOfLongestSubstring("abcabcbbbb");
-    // console.log(result);
+
+    // let result = lengthOfLongestSubstring("au");
+    // let result = lengthOfLongestSubstring("cdd");
+    let result = lengthOfLongestSubstring("abcabcbbbb");
+    // let result = lengthOfLongestSubstring("bbbb");
+    // let result = lengthOfLongestSubstring("pwwkew");
+    console.log(result);
 })();
