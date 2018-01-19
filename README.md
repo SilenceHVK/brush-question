@@ -14,7 +14,7 @@ I hereby express my heart-felt gratitude.
 | 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy |  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
 | 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
 | 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
-| 4 | [Median of Two Sorted Arrays](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](#) |
+| 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
 
 
 # Problems Description
@@ -87,4 +87,4 @@ Example 2:
 ```
 
 Solution:
-[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js)
