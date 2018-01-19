@@ -13,7 +13,8 @@ I hereby express my heart-felt gratitude.
 | ---|---|---|---|--- |
 | 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy |  [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
 | 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
-| 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](#length-of-longest-substring.js) |
+| 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
+| 4 | [Median of Two Sorted Arrays](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](#) |
 
 
 # Problems Description
@@ -59,6 +60,30 @@ Examples:
     Given "pwwkew", the answer is "wke", with the length of 3. 
     
     Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
+
+## Median of Two Sorted Arrays
+There are two sorted arrays nums1 and nums2 of size m and n respectively.
+
+Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+
+Example 1:
+```
+    nums1 = [1, 3]
+    nums2 = [2]
+
+    The median is 2.0
+```
+
+Example 2:
+```
+    nums1 = [1, 2]
+    nums2 = [3, 4]
+
+    The median is (2 + 3)/2 = 2.5
 ```
 
 Solution:
