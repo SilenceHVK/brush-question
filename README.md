@@ -15,6 +15,7 @@ I hereby express my heart-felt gratitude.
 | 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
 | 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/length-of-longest-substring.js) |
 | 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
+| 5 | [Longest Palindromic Substring](#user-content-longest-palindromic-substring) |  [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js) |
 
 
 # Problems Description
@@ -88,3 +89,25 @@ Example 2:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js)
+
+## Longest Palindromic Substring
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+
+Example 1:
+```
+    Input: "babad"
+
+    Output: "bab"
+
+    Note: "aba" is also a valid answer.
+```
+
+Example 2:
+```
+    Input: "cbbd"
+
+    Output: "bb"
+```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js)
