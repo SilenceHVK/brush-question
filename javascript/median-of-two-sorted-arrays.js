@@ -20,13 +20,12 @@
                 return 0;
             }
         });
+        let index = Math.floor(nums.length / 2);
         // According to the length of the array to take the median.
         if (nums.length % 2 == 0) {
-            let index = Math.floor(nums.length / 2);
             let prevIndex = index - 1;
             return (nums[prevIndex] + nums[index]) / 2;
         } else {
-            let index = Math.floor(nums.length / 2);
             return nums[index];
         }
     };
