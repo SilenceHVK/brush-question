@@ -12,7 +12,7 @@ I hereby express my heart-felt gratitude.
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
 | 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/TwoSum.cs),[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
-| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
+| 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/AddTwoNumbers.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
 | 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/length-of-longest-substring.js) |
 | 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
 | 5 | [Longest Palindromic Substring](#user-content-longest-palindromic-substring) |  [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js) |
@@ -48,6 +48,7 @@ Example:
 ```
 
 Solution:
+[C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/AddTwoNumbers.cs), 
 [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
 
 ## Longest Substring Without Repeating Characters
