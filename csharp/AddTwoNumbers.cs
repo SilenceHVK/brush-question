@@ -12,9 +12,9 @@ public class Solution{
                 var val1 = l1 == null || l1.val == null ? 0 : l1.val;
                 // Determine whether the parameter l2 is null and l2.val value is non-numeric or null
                 var val2 = l2 == null || l2.val == null ? 0 : l2.val;
-                    // Calculate the current value
+                // Calculate the current value
                 var curVal = Math.Floor(decimal.Parse(((val1 + val2 + carry) % 10).ToString()));
-                    // The carry value of the current value
+                // The carry value of the current value
                 carry = Math.Floor(decimal.Parse(((val1 + val2 + carry) / 10).ToString()));
                 if (tempNode == null)
                 {
