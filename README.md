@@ -33,7 +33,8 @@ Example:
 
 Solution:
 [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/TwoSum.cs),
-[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) 
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js),
+[Python](https://github.com/SilenceHVK/promgramming-problems/blob/master/python/two-sum.py)
 
 ## Add Two Numbers
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
@@ -49,8 +50,7 @@ Example:
 
 Solution:
 [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/AddTwoNumbers.cs), 
-[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js),
-[Python](https://github.com/SilenceHVK/promgramming-problems/blob/master/python/two-sum.py)
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
 
 ## Longest Substring Without Repeating Characters
 Given a string, find the length of the longest substring without repeating characters.
