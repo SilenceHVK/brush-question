@@ -11,7 +11,7 @@ I hereby express my heart-felt gratitude.
 # Problems List
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
-| 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/TwoSum.cs),[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js) |
+| 1 | [Two Sum](#user-content-two-sum) |  [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/TwoSum.cs),[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/two-sum.js),[Python](https://github.com/SilenceHVK/promgramming-problems/blob/master/python/two-sum.py) |
 | 2 | [Add Two Numbers](#user-content-add-two-numbers) |  [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/AddTwoNumbers.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js) |
 | 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/LengthOfLongestSubstring.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/length-of-longest-substring.js) |
 | 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/FindMedianSortedArrays.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
@@ -49,7 +49,8 @@ Example:
 
 Solution:
 [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/AddTwoNumbers.cs), 
-[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js)
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/add-two-numbers.js),
+[Python](https://github.com/SilenceHVK/promgramming-problems/blob/master/python/two-sum.py)
 
 ## Longest Substring Without Repeating Characters
 Given a string, find the length of the longest substring without repeating characters.
