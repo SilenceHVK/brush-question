@@ -125,7 +125,7 @@ Get parameters in url
 2. Do not Specify the parameter, return all parameter objects or {}.
 3. If there is more than one parameter with the same name, return an array.
 
-Example 1:
+Example:
 ```
     Input: "http://www.nowcoder.com?key=1&key=2&key=3&test=4#hehe"
 
