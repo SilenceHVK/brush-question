@@ -17,7 +17,7 @@ I hereby express my heart-felt gratitude.
 | 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/FindMedianSortedArrays.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
 | 5 | [Longest Palindromic Substring](#user-content-longest-palindromic-substring) |  [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js) |
 | 6 | [Get Url Parameters](#user-content-get-url-parameters) |  [Nowcoder](https://www.nowcoder.com/practice/a3ded747e3884a3c86d09d88d1652e10?tpId=2&tqId=10852&tPage=1&rp=1&ru=/ta/front-end&qru=/ta/front-end/question-ranking) | Easy | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/get-url-parameters.js) |
-
+| 7 | [Namespace](#user-content-namespace) |  [Nowcoder](https://www.nowcoder.com/practice/a82e035501504cedbe881d08c824a381?tpId=2&tqId=10854&tPage=1&rp=1&ru=%2Fta%2Ffront-end&qru=%2Fta%2Ffront-end%2Fquestion-ranking) | Easy | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/namespace.js) |
 
 # Problems Description
 ## Two Sum
@@ -134,3 +134,16 @@ Example:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/get-url-parameters.js)
+
+## Namespace
+Create an object in the specified space based on the package name
+
+Example:
+```
+    Input: namespace({a: {test: 1, b: 2}}, 'a.b.c.d')
+
+    Output: {a: {test: 1, b: {c: {d: {}}}}}
+```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/namespace.js)
