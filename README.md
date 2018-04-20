@@ -119,3 +119,18 @@ Solution:
 [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js)
 
 ## Get Url Parameters
+Get parameters in url
+
+1. Specify the parameter name, return the value of this parameter or and empty string.
+2. Do not Specify the parameter, return all parameter objects or {}.
+3. If there is more than one parameter with the same name, return an array.
+
+Example 1:
+```
+    Input: "http://www.nowcoder.com?key=1&key=2&key=3&test=4#hehe"
+
+    Output: [1, 2, 3]
+```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/get-url-parameters.js)
