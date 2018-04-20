@@ -16,7 +16,7 @@ I hereby express my heart-felt gratitude.
 | 3 | [Longest Substring Without Repeating Characters](#user-content-longest-substring-without-repeating-characters) |  [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/LengthOfLongestSubstring.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/length-of-longest-substring.js) |
 | 4 | [Median of Two Sorted Arrays](#user-content-median-of-two-sorted-arrays) |  [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [C#](https://github.com/SilenceHVK/promgramming-problems/blob/master/csharp/FindMedianSortedArrays.cs), [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/median-of-two-sorted-arrays.js) |
 | 5 | [Longest Palindromic Substring](#user-content-longest-palindromic-substring) |  [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js) |
-| 6 | [Get Url Param](#user-content-longest-palindromic-substring) |  [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Easy | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js) |
+| 6 | [Get Url Parameters](#user-content-get-url-parameters) |  [Nowcoder](https://www.nowcoder.com/practice/a3ded747e3884a3c86d09d88d1652e10?tpId=2&tqId=10852&tPage=1&rp=1&ru=/ta/front-end&qru=/ta/front-end/question-ranking) | Easy | [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/get-url-parameters.js) |
 
 
 # Problems Description
@@ -117,3 +117,5 @@ Example 2:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/promgramming-problems/blob/master/javascript/longest-palindromic-substring.js)
+
+## Get Url Parameters
