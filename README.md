@@ -1,4 +1,7 @@
-# Brush Question &ensp;&ensp;[中文(Chinese)](https://github.com/SilenceHVK/brush-question/blob/master/README-CN.md)
+# Brush Question
+
+- [英文(English)](https://github.com/SilenceHVK/brush-question/blob/master/README.md)
+
 This is a code example for recording algorithm questions.
 
 Brush question mainly from LeetCode, Codewars and some programming books, the use of  C#, Java,JavaScript, Python and Golang to achieve programming effect.
