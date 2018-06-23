@@ -14,7 +14,7 @@ I hereby express my heart-felt gratitude.
 # Question List
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
-| 1 | [Remove Duplicates from Sorted Array](#user-content-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | [JavaScript]() |
+| 1 | [Remove Duplicates from Sorted Array](#user-content-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js) |
 
 # Question Description
 
