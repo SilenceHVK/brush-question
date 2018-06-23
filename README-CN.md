@@ -4,7 +4,7 @@
 
 &ensp;&ensp;这是用于记录算法题的代码示例。
 
-&ensp;&ensp;Brush Question 的题目主要来自 LeetCode，Codewars 和一些编程书籍，使用 C＃，Java，JavaScript，Python和 Golang 来实现编程效果。
+&ensp;&ensp;Brush Question 的题目主要来自 LeetCode，Codewars 和一些编程书籍，使用 C＃，Java，JavaScript，Python3 和 Golang 来实现编程效果。
 
 &ensp;&ensp;如果你有更好的解决方案，如果可以的话，请在 issues 分享你的代码。
 
