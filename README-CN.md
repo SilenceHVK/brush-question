@@ -17,5 +17,8 @@
 
 | 序号 | 题目 | 题目出处 | 难易度 | 解决方案 |
 | ---|---|---|---|--- |
+| 1 | [从排序数组中删除重复项](#user-content-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js) |
 
 # 问题描述
+
+## 从排序数组中删除重复项
