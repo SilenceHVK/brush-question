@@ -1,6 +1,6 @@
 # Brush Question
 
-- [英文(English)](https://github.com/SilenceHVK/brush-question/blob/master/README.md)
+- [中文(Chinese)](https://github.com/SilenceHVK/brush-question/blob/master/README-CN.md)
 
 This is a code example for recording algorithm questions.
 
