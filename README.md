@@ -18,7 +18,7 @@ I hereby express my heart-felt gratitude.
 | 2 | [Best Time to Buy and Sell Stock II](#user-content-best-time-to-buy-and-sell-stock-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)|
 | 3 | [Rotate Array](#user-content-rotate-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
 | 4 | [Contains Duplicate](#user-content-contains-duplicate) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
-| 4 | [Single Number](#user-content-single-number) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
+| 5 | [Single Number](#user-content-single-number) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
 
 # Question Description
 
