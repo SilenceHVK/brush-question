@@ -20,7 +20,7 @@
 | 1 | [从排序数组中删除重复项](#user-content-从排序数组中删除重复项) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js) |
 | 2 | [买卖股票的最佳时机 II](#user-content-买卖股票的最佳时机-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)|
 | 3 | [旋转数组](#user-content-旋转数组) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
-| 4 | [存在重复](#user-content-存在重复) | [LeetCode]() | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
+| 4 | [存在重复](#user-content-存在重复) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 
 # 问题描述
 
