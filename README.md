@@ -19,6 +19,8 @@ I hereby express my heart-felt gratitude.
 | 3 | [Rotate Array](#user-content-rotate-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
 | 4 | [Contains Duplicate](#user-content-contains-duplicate) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 | 5 | [Single Number](#user-content-single-number) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
+| 6 | [Intersection of Two Arrays II](#user-content-intersection-of-two-arrays-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
+
 
 # Question Description
 
@@ -162,3 +164,24 @@ Example 2:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)
+
+## Intersection of Two Arrays II
+
+Given two arrays, write a function to compute their intersection.
+
+Example:
+```
+    Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2, 2].
+```
+
+Note:
+- Each element in the result should appear as many times as it shows in both arrays.
+- The result can be in any order.
+
+Follow up:
+- What if the given array is already sorted? How would you optimize your algorithm?
+- What if nums1's size is small compared to nums2's size? Which algorithm is better?
+- What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)
