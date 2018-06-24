@@ -17,6 +17,7 @@ I hereby express my heart-felt gratitude.
 | 1 | [Remove Duplicates from Sorted Array](#user-content-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js) |
 | 2 | [Best Time to Buy and Sell Stock II](#user-content-best-time-to-buy-and-sell-stock-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)|
 | 3 | [Rotate Array](#user-content-rotate-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
+| 4 | [Contains Duplicate](#user-content-contains-duplicate) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 
 # Question Description
 
@@ -111,3 +112,29 @@ Note:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)
+
+## Contains Duplicate
+
+Given an array of integers, find if the array contains any duplicates.
+
+Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+Example 1:
+```
+    Input: [1,2,3,1]
+    Output: true
+```
+
+Example 2:
+```
+    Input: [1,2,3,4]
+    Output: false
+```
+
+Example 3:
+```
+    Input: [1,1,1,3,3,4,3,2,4,2]
+    Output: true
+```
+Solution:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)
