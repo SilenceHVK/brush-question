@@ -20,6 +20,7 @@ I hereby express my heart-felt gratitude.
 | 4 | [Contains Duplicate](#user-content-contains-duplicate) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 | 5 | [Single Number](#user-content-single-number) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
 | 6 | [Intersection of Two Arrays II](#user-content-intersection-of-two-arrays-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
+| 7 | [Plus One](#user-content-plus-one) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)|
 
 
 # Question Description
@@ -185,3 +186,27 @@ Follow up:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)
+
+## Plus One
+
+Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
+
+The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
+
+You may assume the integer does not contain any leading zero, except the number 0 itself.
+
+Example 1:
+```
+    Input: [1,2,3]
+    Output: [1,2,4]
+    Explanation: The array represents the integer 123.
+```
+
+Example 2:
+```
+    Input: [4,3,2,1]
+    Output: [4,3,2,2]
+    Explanation: The array represents the integer 4321.
+```
+Solution:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)
