@@ -23,6 +23,8 @@
 | 4 | [存在重复](#user-content-存在重复) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 | 5 | [只出现一次的数字](#user-content-只出现一次的数字) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
 | 6 | [两个数组的交集 II](#user-content-两个数组的交集-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
+| 7 | [加一](#user-content-加一) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)|
+
 
 # 问题描述
 
@@ -191,3 +193,28 @@
 
 解决方案:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)
+
+## 加一
+
+给定一个非负整数组成的非空数组，在该数的基础上加一，返回一个新的数组。
+
+最高位数字存放在数组的首位， 数组中每个元素只存储一个数字。
+
+你可以假设除了整数 0 之外，这个整数不会以零开头。
+
+示例 1:
+```
+    输入: [1,2,3]
+    输出: [1,2,4]
+    解释: 输入数组表示数字 123。
+```
+
+示例 2:
+```
+    输入: [4,3,2,1]
+    输出: [4,3,2,2]
+    解释: 输入数组表示数字 4321。
+```
+
+解决方案:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)
