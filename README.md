@@ -24,7 +24,6 @@ I hereby express my heart-felt gratitude.
 | 8 | [Move Zeroes](#user-content-move-zeroes) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)|
 | 9 | [Two Sum](#user-content-two-sum) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)|
 
-
 # Question Description
 
 ## Remove Duplicates from Sorted Array
