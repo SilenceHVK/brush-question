@@ -22,6 +22,7 @@ I hereby express my heart-felt gratitude.
 | 6 | [Intersection of Two Arrays II](#user-content-intersection-of-two-arrays-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
 | 7 | [Plus One](#user-content-plus-one) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)|
 | 8 | [Move Zeroes](#user-content-move-zeroes) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)|
+| 9 | [Two Sum](#user-content-two-sum) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)|
 
 
 # Question Description
@@ -228,3 +229,20 @@ Note:
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)
+
+##  Two Sum
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+```
+    Given nums = [2, 7, 11, 15], target = 9,
+
+    Because nums[0] + nums[1] = 2 + 7 = 9,
+    return [0, 1].
+```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)
