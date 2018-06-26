@@ -25,7 +25,8 @@
 | 6 | [两个数组的交集 II](#user-content-两个数组的交集-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
 | 7 | [加一](#user-content-加一) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)|
 | 8 | [移动零](#user-content-移动零) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)|
-
+| 9 | [两数之和](#user-content-两数之和) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/29/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)|
+ 
 # 问题描述
 
 ## 从排序数组中删除重复项
@@ -236,3 +237,20 @@
 
 解决方案:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)
+
+## 两数之和
+
+给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
+
+你可以假设每个输入只对应一种答案，且同样的元素不能被重复利用。
+
+示例:
+```
+    给定 nums = [2, 7, 11, 15], target = 9
+
+    因为 nums[0] + nums[1] = 2 + 7 = 9
+    所以返回 [0, 1]
+```
+
+解决方案:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)
