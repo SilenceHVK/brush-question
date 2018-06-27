@@ -307,4 +307,4 @@ Note:
 - The given board size is always 9x9.
 
 Solution:
-[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/isValidSudoku.js)
