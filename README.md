@@ -23,6 +23,9 @@ I hereby express my heart-felt gratitude.
 | 7 | [Plus One](#user-content-plus-one) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/plusOne.js)|
 | 8 | [Move Zeroes](#user-content-move-zeroes) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/moveZeroes.js)|
 | 9 | [Two Sum](#user-content-two-sum) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)|
+| 10 | [Valid Sudoku](#user-content-valid-sudoku) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/isValidSudoku.js)|
+
+
 
 # Question Description
 
@@ -242,6 +245,66 @@ Example:
     Because nums[0] + nums[1] = 2 + 7 = 9,
     return [0, 1].
 ```
+
+Solution:
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)
+
+## Valid Sudoku
+
+Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+
+1. Each row must contain the digits 1-9 without repetition.
+2. Each column must contain the digits 1-9 without repetition.
+3. Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+
+<p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png" style="height:250px; width:250px"><br>
+    <small>A partially filled sudoku which is valid.</small>
+</p>
+
+The Sudoku board could be partially filled, where empty cells are filled with the character ```'.'```.
+
+Example1:
+```
+    Input:
+    [
+    ["5","3",".",".","7",".",".",".","."],
+    ["6",".",".","1","9","5",".",".","."],
+    [".","9","8",".",".",".",".","6","."],
+    ["8",".",".",".","6",".",".",".","3"],
+    ["4",".",".","8",".","3",".",".","1"],
+    ["7",".",".",".","2",".",".",".","6"],
+    [".","6",".",".",".",".","2","8","."],
+    [".",".",".","4","1","9",".",".","5"],
+    [".",".",".",".","8",".",".","7","9"]
+    ]
+    Output: true
+```
+
+Example2:
+```
+    Input:
+    [
+    ["8","3",".",".","7",".",".",".","."],
+    ["6",".",".","1","9","5",".",".","."],
+    [".","9","8",".",".",".",".","6","."],
+    ["8",".",".",".","6",".",".",".","3"],
+    ["4",".",".","8",".","3",".",".","1"],
+    ["7",".",".",".","2",".",".",".","6"],
+    [".","6",".",".",".",".","2","8","."],
+    [".",".",".","4","1","9",".",".","5"],
+    [".",".",".",".","8",".",".","7","9"]
+    ]
+    Output: false
+    Explanation: Same as Example 1, except with the 5 in the top left corner being 
+                modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid.
+```
+
+Note:
+- A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+- Only the filled cells need to be validated according to the mentioned rules.
+- The given board contain only digits 1-9 and the character ```'.'```.
+- The given board size is always 9x9.
 
 Solution:
 [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/twoSum.js)
