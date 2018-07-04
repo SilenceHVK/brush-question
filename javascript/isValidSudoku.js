@@ -6,6 +6,11 @@
  */
 var isValidSudoku = function (board) {
     console.log(board);
+    for (let i = 0; i < board.length; i++) {
+        for (let j = 0; j < board.length; j++) {
+            console.log(board[i][j]);
+        }
+    }
     return true;
 };
 
