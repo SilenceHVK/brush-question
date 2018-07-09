@@ -15,7 +15,7 @@ I hereby express my heart-felt gratitude.
 | No. | Title | Title Form | Difficulty | Solution |
 | ---|---|---|---|--- |
 | 1 | [Remove Duplicates from Sorted Array](#user-content-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)&ensp;[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/removeDuplicates.go) |
-| 2 | [Best Time to Buy and Sell Stock II](#user-content-best-time-to-buy-and-sell-stock-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)|
+| 2 | [Best Time to Buy and Sell Stock II](#user-content-best-time-to-buy-and-sell-stock-ii) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)&ensp;[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/maxProfit.go) |
 | 3 | [Rotate Array](#user-content-rotate-array) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
 | 4 | [Contains Duplicate](#user-content-contains-duplicate) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 | 5 | [Single Number](#user-content-single-number) | [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
@@ -90,7 +90,8 @@ Example 3:
 ```
 
 Solution:
-[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)&ensp;
+[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/maxProfit.go)
 
 ## Rotate Array
 
