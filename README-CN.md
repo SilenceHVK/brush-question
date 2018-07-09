@@ -17,7 +17,7 @@
 
 | 序号 | 题目 | 题目出处 | 难易度 | 解决方案 |
 | ---|---|---|---|--- |
-| 1 | [从排序数组中删除重复项](#user-content-从排序数组中删除重复项) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js) |
+| 1 | [从排序数组中删除重复项](#user-content-从排序数组中删除重复项) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)&ensp;[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/removeDuplicates.go) |
 | 2 | [买卖股票的最佳时机 II](#user-content-买卖股票的最佳时机-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)|
 | 3 | [旋转数组](#user-content-旋转数组) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
 | 4 | [存在重复](#user-content-存在重复) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
@@ -56,7 +56,8 @@
 ```
 
 解决方案:
-[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)&ensp;
+[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/removeDuplicates.go)
 
 ## 买卖股票的最佳时机 II
 
