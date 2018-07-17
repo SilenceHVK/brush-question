@@ -1,4 +1,5 @@
 package main
+
 func rotate(nums []int, k int)  {
     length := len(nums)
     for i := 0; i < k; i++ {
