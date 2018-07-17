@@ -17,9 +17,9 @@
 
 | 序号 | 题目 | 题目出处 | 难易度 | 解决方案 |
 | ---|---|---|---|--- |
-| 1 | [从排序数组中删除重复项](#user-content-从排序数组中删除重复项) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)&ensp;[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/removeDuplicates.go) |
-| 2 | [买卖股票的最佳时机 II](#user-content-买卖股票的最佳时机-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)&ensp;[Go](https://github.com/SilenceHVK/brush-question/blob/master/golang/maxProfit.go) |
-| 3 | [旋转数组](#user-content-旋转数组) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)|
+| 1 | [从排序数组中删除重复项](#user-content-从排序数组中删除重复项) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/removeDuplicates.js)&ensp;[Golang](https://github.com/SilenceHVK/brush-question/blob/master/golang/removeDuplicates.go) |
+| 2 | [买卖股票的最佳时机 II](#user-content-买卖股票的最佳时机-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/maxProfit.js)&ensp;[Golang](https://github.com/SilenceHVK/brush-question/blob/master/golang/maxProfit.go) |
+| 3 | [旋转数组](#user-content-旋转数组) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)&ensp;[Golang](https://github.com/SilenceHVK/brush-question/blob/master/golang/rotateArray.go)|
 | 4 | [存在重复](#user-content-存在重复) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/containsDuplicate.js)|
 | 5 | [只出现一次的数字](#user-content-只出现一次的数字) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/singleNumber.js)|
 | 6 | [两个数组的交集 II](#user-content-两个数组的交集-ii) | [LeetCode](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/) | 简单 | [JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/intersect.js)|
@@ -126,7 +126,7 @@
 - 要求使用空间复杂度为 O(1) 的原地算法。
 
 解决方案:
-[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)
+[JavaScript](https://github.com/SilenceHVK/brush-question/blob/master/javascript/rotateArray.js)&ensp;[Golang](https://github.com/SilenceHVK/brush-question/blob/master/golang/rotateArray.go)
 
 ## 存在重复
 
